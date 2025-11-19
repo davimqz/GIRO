@@ -10,9 +10,9 @@
   "icons": [
     {
       "src": "/vite.svg",
-      "sizes": "any",
+      "sizes": "192x192",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ],
   "categories": ["marketplace", "shopping", "business"],
