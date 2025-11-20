@@ -32,3 +32,4 @@ dist-ssr
 contracts/.env
 railway-env-vars.txt
 *env-vars.txt
+.vercel
